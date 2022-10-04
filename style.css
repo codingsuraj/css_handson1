@@ -1,0 +1,29 @@
+h1{
+    color: red;
+}
+h3 {
+    color: red;
+    font-style: italic;
+}
+ol {
+    color: brown;
+}
+#del {
+    text-decoration: line-through;
+}
+.mark{
+    background-color: yellow;
+}
+ul {
+    color: brown;
+    letter-spacing: 4px;
+}
+.col {
+    color: red;
+}
+a {
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+    background-color: yellow;
+}
